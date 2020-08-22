@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import scipy.stats as stats
-import statsmodels.stats as stat
+#import statsmodels.stats as stat
 
 
 #effect SS, grand mean - condition mean
